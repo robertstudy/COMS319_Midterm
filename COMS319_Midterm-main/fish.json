@@ -1,0 +1,131 @@
+{
+    "fish_species": [
+      {
+        "name": "Rainbow Trout",
+        "description": "Rainbow trout are freshwater fish characterized by a colorful stripe running along their bodies. They are popular game fish known for their fighting ability.",
+        "image_link": "fishImages/rainbow_trout.jpg",
+        "fishing_method": "Rainbow trout can be caught using various methods including fly fishing, spinning, and bait fishing. They are often found in streams, rivers, and lakes.",
+        "habitat": "Freshwater"
+      },
+      {
+        "name": "Atlantic Salmon",
+        "description": "Atlantic salmon are anadromous fish that live in both freshwater and saltwater. They have a distinctive silver-blue coloration and are highly prized for their flavor.",
+        "image_link": "fishImages/atlantic_salmon.jpg",
+        "fishing_method": "Fishing for Atlantic salmon can be done using fly fishing, spinning, or trolling techniques. They are often found in rivers and coastal areas during their spawning runs.",
+        "habitat": "Freshwater, Saltwater"
+      },
+      {
+        "name": "Bluegill",
+        "description": "Bluegill, also known as bream, are freshwater fish with striking blue and green coloration on their gill covers. They are popular panfish among anglers.",
+        "image_link": "fishImages/bluegill.jpg",
+        "fishing_method": "Bluegill are often caught using small hooks and bait such as worms or insects. They are commonly found in lakes, ponds, and slow-moving rivers.",
+        "habitat": "Freshwater"
+      },
+      {
+        "name": "Largemouth Bass",
+        "description": "Largemouth bass are predatory freshwater fish known for their large mouths and aggressive feeding behavior. They are prized by anglers for their fighting ability.",
+        "image_link": "fishImages/largemouth_bass.jpg",
+        "fishing_method": "Largemouth bass are often caught using artificial lures such as crankbaits, spinnerbaits, and plastic worms. They are commonly found in lakes, ponds, and rivers with abundant cover.",
+        "habitat": "Freshwater"
+      },
+      {
+        "name": "Yellow Perch",
+        "description": "Yellow perch are freshwater fish with distinctive yellow coloration and vertical stripes. They are popular among anglers for their delicious taste.",
+        "image_link": "fishImages/yellow_perch.jpg",
+        "fishing_method": "Yellow perch are often caught using small jigs or live bait such as minnows or worms. They are commonly found in lakes, ponds, and slow-moving rivers.",
+        "habitat": "Freshwater"
+      },
+      {
+        "name": "Chinook Salmon",
+        "description": "Chinook salmon, also known as king salmon, are the largest species of Pacific salmon. They are prized for their size and flavor.",
+        "image_link": "fishImages/chinook_salmon.jpg",
+        "fishing_method": "Chinook salmon are often caught using trolling or mooching techniques in coastal waters. They are commonly found in the Pacific Ocean and its tributaries during their spawning runs.",
+        "habitat": "Saltwater"
+      },
+      {
+        "name": "Tuna",
+        "description": "Tuna are large and fast saltwater fish known for their streamlined bodies and powerful swimming abilities. They are highly sought after for sport fishing and commercial harvesting.",
+        "image_link": "fishImages/tuna.jpg",
+        "fishing_method": "Tuna are often caught using trolling, chunking, or casting techniques in open waters. They are found in both coastal and offshore habitats.",
+        "habitat": "Saltwater"
+      },
+      {
+        "name": "Clownfish",
+        "description": "Clownfish are small tropical marine fish known for their vibrant orange and white coloration. They are often associated with coral reefs and sea anemones.",
+        "image_link": "fishImages/clownfish.jpg",
+        "fishing_method": "Clownfish are not typically targeted by anglers due to their popularity in aquarium trade. They are commonly found in coral reef habitats.",
+        "habitat": "Tropical"
+      },
+      {
+        "name": "Angelfish",
+        "description": "Angelfish are brightly colored tropical fish known for their distinctive shape and graceful movements. They are popular aquarium fish.",
+        "image_link": "fishImages/angelfish.jpg",
+        "fishing_method": "Angelfish are not typically targeted by anglers due to their popularity in aquarium trade. They are commonly found in coral reef habitats.",
+        "habitat": "Tropical"
+      },
+      {
+        "name": "Deep Sea Anglerfish",
+        "description": "Deep sea anglerfish are bizarre-looking fish with a bioluminescent lure dangling from their heads. They inhabit the deep ocean and are rarely encountered by humans.",
+        "image_link": "fishImages/deep_sea_anglerfish.jpg",
+        "fishing_method": "Deep sea anglerfish are not targeted by recreational anglers due to their deep-sea habitat and specialized adaptations.",
+        "habitat": "Deep Sea"
+      },
+      {
+        "name": "Giant Squid",
+        "description": "Giant squid are enormous cephalopods that inhabit the deep ocean. They are elusive creatures known for their enormous size and mysterious behavior.",
+        "image_link": "fishImages/giant_squid.jpg",
+        "fishing_method": "Giant squid are not typically caught by anglers due to their deep-sea habitat and rarity.",
+        "habitat": "Deep Sea"
+      },
+      {
+        "name": "Gulper Eel",
+        "description": "Gulper eels are deep-sea fish with elongated bodies and enormous mouths. They are capable of swallowing prey much larger than themselves.",
+        "image_link": "fishImages/gulper_eel.jpg",
+        "fishing_method": "Gulper eels are not targeted by recreational anglers due to their deep-sea habitat and specialized adaptations.",
+        "habitat": "Deep Sea"
+      },
+      {
+        "name": "Hatchetfish",
+        "description": "Hatchetfish are small deep-sea fish with flattened bodies and luminous organs. They are found in mesopelagic and bathypelagic zones.",
+        "image_link": "fishImages/hatchetfish.jpg",
+        "fishing_method": "Hatchetfish are not targeted by recreational anglers due to their deep-sea habitat and specialized adaptations.",
+        "habitat": "Deep Sea"
+      },
+      {
+        "name": "Viperfish",
+        "description": "Viperfish are deep-sea fish known for their elongated bodies and large mouths filled with sharp teeth. They are found in the bathypelagic zone.",
+        "image_link": "fishImages/viperfish.jpg",
+        "fishing_method": "Viperfish are not targeted by recreational anglers due to their deep-sea habitat and specialized adaptations.",
+        "habitat": "Deep Sea"
+      },
+      {
+        "name": "Blobfish",
+        "description": "Blobfish are deep-sea fish with gelatinous bodies and a distinctive droopy appearance. They inhabit the deep ocean at depths of up to 4,000 feet.",
+        "image_link": "fishImages/blobfish.jpg",
+        "fishing_method": "Blobfish are not targeted by recreational anglers due to their deep-sea habitat and specialized adaptations.",
+        "habitat": "Deep Sea"
+      },
+      {
+        "name": "Fangtooth Fish",
+        "description": "Fangtooth fish are deep-sea fish with large, sharp teeth and elongated bodies. They are among the deepest-dwelling fish species.",
+        "image_link": "fishImages/fangtooth_fish.jpg",
+        "fishing_method": "Fangtooth fish are not targeted by recreational anglers due to their deep-sea habitat and specialized adaptations.",
+        "habitat": "Deep Sea"
+      },
+      {
+        "name": "Grenadier",
+        "description": "Grenadiers are deep-sea fish with elongated bodies and large eyes. They are found in deep waters worldwide and are often scavengers.",
+        "image_link": "fishImages/grenadier.jpg",
+        "fishing_method": "Grenadiers are not targeted by recreational anglers due to their deep-sea habitat and specialized adaptations.",
+        "habitat": "Deep Sea"
+      },
+      {
+        "name": "Barreleye",
+        "description": "Barreleye fish are deep-sea fish with transparent heads and tubular eyes. They are found in the mesopelagic zone and are rarely seen by humans.",
+        "image_link": "fishImages/barreleye.jpg",
+        "fishing_method": "Barreleye fish are not targeted by recreational anglers due to their deep-sea habitat and specialized adaptations.",
+        "habitat": "Deep Sea"
+      }
+    ]
+  }
+  
