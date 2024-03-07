@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const sortSelect = document.getElementById("sortSelect");
     let fish_species = []; 
 
-    fetch('fish.json')
+    fetch('data.json')
             .then(response => response.json())
             .then(data => {
                 fish_species = data.fish_species; 
