@@ -1,0 +1,24 @@
+#fishContent {
+    width: 100%;
+    max-width: 8000px; /* Limit maximum width for larger screens */
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 18px; /* Increase font size for fish content */
+}
+
+.fish-details {
+    margin-top: 20px;
+}
+
+.fish-details p {
+    margin-bottom: 10px;
+}
+
+.fish-details img {
+    max-width: 1%; /* Ensure the image does not exceed its container's width */
+    max-height: 30px; /* Set maximum height for the image */
+    display: block; /* Prevent extra space below the image */
+    margin: 0 auto; /* Center the image horizontally */
+}
