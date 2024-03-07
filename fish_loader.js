@@ -10,7 +10,7 @@ function getFishIdFromUrl() {
 
 function fetchfishContent(fishId) {
     return new Promise((resolve, reject) => {
-        fetch('fish.json')
+        fetch('data.json')
             .then(response => response.json())
             .then(data => {
                 console.log("Fish data:", data); // Log the retrieved data to check its structure
