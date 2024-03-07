@@ -3,7 +3,7 @@
     const sortSelect = document.getElementById("sortSelect");
     let fish_species = []; // Declare the variable here without 'let'
 
-    fetch('fish.json')
+    fetch('data.json')
             .then(response => response.json())
             .then(data => {
                 fish_species = data.fish_species; // Update the outer variable without 'let'
